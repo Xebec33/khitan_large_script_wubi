@@ -35,7 +35,7 @@ A Rime-based Wubi input schema for the Khitan Large Script
 
 ## 三、使用步骤（Win11）
 
-1. 下载并安装契丹大字字体，如[CCAMC Khitan & Jurchen Std]([契丹文、女真文 | 字體和输入法 | 古今文字集成](http://www.ccamc.co/fonts_kht_jrc.php))（本方案依照该字体制作，换用其他字体时可能会出现部分生僻字符无法显示的情况）。
+1. 下载并安装契丹大字字体，如[CCAMC Khitan & Jurchen Std](http://www.ccamc.co/fonts_kht_jrc.php)（本方案依照该字体制作，换用其他字体时可能会出现部分生僻字符无法显示的情况）。
 2. 下载[Rime输入法内核](https://rime.im/)并安装。
 3. 右键Rime状态栏，选择并打开“用户文件夹”，将本项目的.yaml和.ico文件复制到该目录。
 4. 右键Rime状态栏，选择“输入法设置”，并勾选“契丹大字五笔”。
@@ -77,7 +77,7 @@ A Rime-based Wubi input schema for the Khitan Large Script
 
 ​	由于过去在字符录入时出现识别讹误，导致有大量字形相同的字被录入了不同编码（下图是其中一部分）。为了最大化兼容，本方案支持输入重复的废弃字，但将其权重调至最低。
 
-![image6](images\image6.png)
+![image6](images/image6.png)
 
 
 
