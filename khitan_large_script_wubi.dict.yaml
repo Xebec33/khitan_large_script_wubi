@@ -4,7 +4,7 @@
 
 ---
 name: "khitan_large_script_wubi"
-version: "1.0"
+version: "1.1"
 sort: by weight
 columns:
   - text
@@ -101,7 +101,6 @@ encoder:
 	aqb	10
 	aqd	10
 	aqi	10
-	aqiy	10
 	aqy	20
 	aqy	10
 	aqyu	10
@@ -744,10 +743,10 @@ encoder:
 	ftq	10
 	ftqu	10
 	ftu	10
-	fty	10
-	ftyi	10
-	fu	10
+	fu	20
+	fu	10
 	fuf	10
+	fui	10
 	fuw	20
 	fuw	10
 	fuwu	20
@@ -2005,7 +2004,8 @@ encoder:
 	nfnb	10
 	nfnn	10
 	nfny	10
-	nfty	10
+	nfu	10
+	nfui	10
 	nfuy	10
 	nfy	20
 	nfy	10
@@ -2553,6 +2553,7 @@ encoder:
 	pwyh	10
 	pwyi	10
 	pwyu	10
+	qaiy	10
 	qb	10
 	qbj	10
 	qd	20
@@ -3656,7 +3657,7 @@ encoder:
 	wtf	10
 	wtfy	20
 	wtfy	10
-	wthy	10
+	wthu	10
 	wtl	10
 	wtln	10
 	wtny	10
@@ -3822,7 +3823,7 @@ encoder:
 	ykq	10
 	ykqb	10
 	yl	10
-	ylfy	10
+	ylfu	10
 	ylv	10
 	yly	10
 	ylyv	10

@@ -4,7 +4,7 @@
 schema:
   schema_id: khitan_large_script_wubi
   name: "契丹大字五笔"
-  version: "1.0"
+  version: "1.1"
   icon: "khitan_large_script_wubi.ico"           # string 方案图标，格式： .ico
   ascii_icon:                         # string
   author:
@@ -54,7 +54,7 @@ speller:
   auto_clear: max_length                # 空码时自动清空
 
 translator:
-  dictionary: khitan_small_script_wubi             # 翻译器将调取此字典文件
+  dictionary: khitan_large_script_wubi             # 翻译器将调取此字典文件
   enable_charset_filter: false           # 开启字符集过滤
   enable_completion: true               # 是否显示编码未输入完整的词条
 
